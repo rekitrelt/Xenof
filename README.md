@@ -1,6 +1,6 @@
 # Xenof
 a visual studio UI project for school
-# [V2.1.85](https://github.com/rekitrelt/Xenof/releases/download/V2.1.85/Xenof.v2.1.85.zip)
+# [Download (the zip)](https://github.com/rekitrelt/Xenof/releases)
 - resize-able
 - topmost is toggle-able
 - 11 tabs
