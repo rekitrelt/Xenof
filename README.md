@@ -3,12 +3,14 @@ a visual studio UI project for school
 
 ## [Latest download](https://github.com/rekitrelt/Xenof/releases/latest/download/Xenof.zip)
 - built off the [original source](https://rizve.us.to/Xeno/)
+- injected status icon
 - resize-able
-- topmost toggle
 - 11 tabs
 - font size changer
 - theme editor
+- topmost toggle
 - consistent execution even with spam
+- button icons/text toggle
 - redo/undo history for each tab
 - undo/redo buttons (with toggle)
   
