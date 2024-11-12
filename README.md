@@ -1,7 +1,6 @@
-# Xenof
+# [Xenof](https://github.com/rekitrelt/Xenof/releases/latest/download/Xenof.zip)
 a visual studio UI project for school
 
-## [Latest download](https://github.com/rekitrelt/Xenof/releases/latest/download/Xenof.zip)
 - built off the [original source](https://rizve.us.to/Xeno/)
 - injected status icon
 - resize-able
