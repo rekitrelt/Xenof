@@ -8,6 +8,7 @@ a visual studio UI project for school
 - 11 tabs
 - font size changer
 - theme editor
+- custom background image support (theme editor)
 - topmost toggle
 - consistent execution even with spam
 - button icons/text toggle
