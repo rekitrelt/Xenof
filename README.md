@@ -19,5 +19,5 @@ a visual studio UI project for school
 - Undo/redo buttons (with toggle)
 - Periodic saving
   
-![image](https://github.com/user-attachments/assets/16402b1a-57e7-4cf1-8989-af1970066641)
-![image](https://github.com/user-attachments/assets/da944c18-ff8b-4e69-b408-19958fe06d2c)
+![NVIDIA_Share_IZcXINPtv1](https://github.com/user-attachments/assets/a1d31618-2a5d-4338-88d5-5b50f279b786)
+![Xenof_5u7c6oo7Yk](https://github.com/user-attachments/assets/03d9aff0-0277-4740-a77f-dc15a32859a4)
