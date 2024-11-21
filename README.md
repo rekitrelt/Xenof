@@ -1,14 +1,13 @@
 # [Xenof](https://github.com/rekitrelt/Xenof/releases/latest/download/Xenof.zip)
 a visual studio UI project for school
 
-- Infinite customize-able tabs (add, remove, rename) (even save after closing by name)
+- Infinite customize-able tabs (add, remove, rename) save/load by name
 - Luau IntelliSense (autofill)
-- Added bootstrapper for optional auto-updating (fixed overwriting)
+- Added bootstrapper for optional auto-updating
 - Injected status icon
 - Resize-able
 - Font size changer
-- Theme editor
-- Custom background image support (theme editor)
+- Theme editor + custom background image support
 - Less DLLs
 - Major bug fixes; crashing fixed
 - Built off the [original source](https://rizve.us.to/Xeno/)
